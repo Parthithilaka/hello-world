@@ -35,6 +35,10 @@
           <label for="date">Date of birth:</label>
           <input type="number" id="date">
         </div>
+	<div>
+          <label for="phone">Phone Number:</label>
+          <input type="number" id="phone">
+        </div>
         <div>
           <label for="birth-day">Place of birth:</label>
           <input type="text" id="birth-day">
