@@ -28,6 +28,11 @@
           <input type="text" id="name">
         </div>
         <div>
+          <label for="phone">Phone Number:</label>
+          <input type="phone" id="phone">
+        </div>
+
+	<div>
           <label for="email">Email address:</label>
           <input type="email" id="email">
         </div>
