@@ -22,12 +22,16 @@
   <body>
     <form>
       <fieldset>
-        <legend>Personal dataBase:</legend>
+        <legend>Personal information:</legend>
         <div>
           <label for="name">Name:</label>
           <input type="text" id="name">
         </div>
         <div>
+          <label for="Degree">Degree:</label>
+          <input type="text" id="Degree">
+        </div>
+	<div>
           <label for="phone">Phone Number:</label>
           <input type="phone" id="phone">
         </div>
