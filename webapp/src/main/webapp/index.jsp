@@ -22,7 +22,7 @@
   <body>
     <form>
       <fieldset>
-        <legend>Personal information:</legend>
+        <legend>Personal DataBase:</legend>
         <div>
           <label for="name">Name:</label>
           <input type="text" id="name">
