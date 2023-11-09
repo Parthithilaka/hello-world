@@ -28,6 +28,10 @@
           <input type="text" id="name">
         </div>
         <div>
+          <label for="college">College:</label>
+          <input type="text" id=College">
+        </div>
+	<div>
           <label for="Degree">Degree:</label>
           <input type="text" id="Degree">
         </div>
